@@ -7,7 +7,7 @@ News and information sources:
 
 Support using tech:
 - https://github.com/FoldingAtHome/coronavirus/blob/master/README.md
-- BBC Click on Tech to foght the virus: https://youtu.be/V6IOFWjmWPM
+- BBC Click on Tech to fight the virus: https://youtu.be/V6IOFWjmWPM
 
 Aid groups:
 - https://airtable.com/shrUCI7eE8xDqXLEx/tblFqGvhbICXwl493/viwenxDwDhhfOUiQu?blocks=hide
